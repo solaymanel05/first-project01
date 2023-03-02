@@ -1,0 +1,170 @@
+* {box-sizing: border-box;
+
+}
+ body{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: large;
+  background-color: rgb(253, 255, 253);
+ }
+ header{
+  text-align: center;
+  margin-bottom: 10px;
+ }
+.one{
+  text-align: center;
+  display: inline-flex;
+  margin: 50px;
+  
+}
+.para{
+  text-align: center;
+  display: inline-flex;
+  border:1px solid black;
+  padding: 3px;
+  margin: 3px;
+}
+#b1{
+  display: inline-flex;
+  border: 1px solid black;
+  background-color: white
+}
+#b2{
+  display: inline-flex;
+  border: 1px solid rgb(12, 12, 12);
+  background-color: white
+}
+#b3{
+  display: inline-flex;
+  border: 1px solid rgb(12, 2, 2);
+  background-color: white
+}
+/***********************MediaQuire**********************
+****************************************************/
+@media screen and (max-width: 575px) {
+  * {box-sizing: border-box;
+
+  }
+   body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    background-color: rgb(253, 255, 253);
+   }
+   header{
+    text-align: center;
+    margin-bottom: 10px;
+   }
+  .one{
+    text-align: center;
+    display: inline-flex;
+    margin: 50px;
+    
+  }
+  .para{
+    text-align: center;
+    display: inline-flex;
+    border:1px solid black;
+    padding: 3px;
+    margin: 3px;
+  }
+  #b1{
+    display: inline-flex;
+    border: 1px solid black;
+    background-color: white
+  }
+  #b2{
+    display: inline-flex;
+    border: 1px solid rgb(12, 12, 12);
+    background-color: white
+  }
+  #b3{
+    display: inline-flex;
+    border: 1px solid rgb(12, 2, 2);
+    background-color: white
+  }
+  }
+  @media screen and (min-width: 992px) and (max-width: 1279px) {
+    * {box-sizing: border-box;
+
+    }
+     body{
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      font-size: large;
+      background-color: rgb(253, 255, 253);
+     }
+     header{
+      text-align: center;
+      margin-bottom: 10px;
+     }
+    .one{
+      text-align: center;
+      display: inline-flex;
+      margin: 50px;
+      
+    }
+    .para{
+      text-align: center;
+      display: inline-flex;
+      border:1px solid black;
+      padding: 3px;
+      margin: 3px;
+    }
+    #b1{
+      display: inline-flex;
+      border: 1px solid black;
+      background-color: white
+    }
+    #b2{
+      display: inline-flex;
+      border: 1px solid rgb(12, 12, 12);
+      background-color: white
+    }
+    #b3{
+      display: inline-flex;
+      border: 1px solid rgb(12, 2, 2);
+      background-color: white
+    }
+    /***********************MediaQuire**********************
+    ****************************************************/
+    @media screen and (max-width: 575px) {
+      * {box-sizing: border-box;
+    
+      }
+       body{
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: large;
+        background-color: rgb(253, 255, 253);
+       }
+       header{
+        text-align: center;
+        margin-bottom: 10px;
+       }
+      .one{
+        text-align: center;
+        display: inline-flex;
+        margin: 50px;
+        
+      }
+      .para{
+        text-align: center;
+        display: inline-flex;
+        border:1px solid black;
+        padding: 3px;
+        margin: 3px;
+      }
+      #b1{
+        display: inline-flex;
+        border: 1px solid black;
+        background-color: white
+      }
+      #b2{
+        display: inline-flex;
+        border: 1px solid rgb(12, 12, 12);
+        background-color: white
+      }
+      #b3{
+        display: inline-flex;
+        border: 1px solid rgb(12, 2, 2);
+        background-color: white
+      }
+      }
+      }
